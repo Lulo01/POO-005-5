@@ -61,7 +61,7 @@ public class GestionArreglo {
     public static void main(String[] args) {
         System.out.println("Bienvenido a nuestro programa de arreglos :3");
         GestionArreglo obj = new 
-        GestionArreglo(2); // Constructor
+        GestionArreglo(8); // Constructor
         obj.ingresarDatos(); // Método posterior
         obj.mostrarDatos();
        
@@ -71,4 +71,5 @@ public class GestionArreglo {
        
     }
 }
+
    
